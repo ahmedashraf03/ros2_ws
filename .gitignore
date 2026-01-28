@@ -1,0 +1,48 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# C++
+*.o
+*.so
+*.a
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# ROS
+*.bag
+*.bag.active
+*.cache
+
+# Temporary
+*.tmp
+*.temp
+
+# Package specific (optional)
+**/test_results/
+**/setup.py
+**/setup.cfg
+**/__pycache__/

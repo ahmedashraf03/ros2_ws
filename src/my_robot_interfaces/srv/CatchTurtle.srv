@@ -1,0 +1,3 @@
+string name  # Request: name of turtle to catch
+---
+bool success  # Response: whether catch succeeded

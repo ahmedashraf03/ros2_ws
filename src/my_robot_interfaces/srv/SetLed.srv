@@ -1,0 +1,6 @@
+# Request
+int64 led_number  # Which LED (e.g., 0, 1, 2, 3...)
+int64 state        # 1=ON, 0=OFF
+---
+# Response
+bool success      # Operation succeeded?
