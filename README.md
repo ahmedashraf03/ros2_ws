@@ -8,7 +8,6 @@ My ROS2 development workspace containing various robotics packages.
 - **my_robot_interfaces** - Custom messages and services
 - **catch_them_all_turtlesim_pkg** - Turtlesim "Catch Them All" game
 - **my_robot_bringup** - Launch files and configurations
-- **my_bot** - Mobile robot simulation with Gazebo
 
 ## 🚀 Setup
 ```bash
